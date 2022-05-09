@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EmailMessanger", "EmailMessanger\EmailMessanger.vcxproj", "{A141947D-778E-48E6-A1E4-69FA3A70BCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Debug|x64.ActiveCfg = Debug|x64
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Debug|x64.Build.0 = Debug|x64
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Debug|x86.Build.0 = Debug|Win32
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Release|x64.ActiveCfg = Release|x64
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Release|x64.Build.0 = Release|x64
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Release|x86.ActiveCfg = Release|Win32
+		{A141947D-778E-48E6-A1E4-69FA3A70BCDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ABF1BFF-A109-4348-9C70-97AF869C66BF}
+	EndGlobalSection
+EndGlobal
